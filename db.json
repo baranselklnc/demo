@@ -14,7 +14,7 @@
       "name": "Döngü Kartları",
       "description": "Eğitici döngü kartları",
       "price": 79.99,
-      "imageUrl": "https://picsum.photos/200",
+      "imageUrl": "https://picsum.photos/201",
       "isFavorite": false,
       "isPopular": true
     },
@@ -23,7 +23,7 @@
       "name": "BigiGurumi",
       "description": "Sevimli BigiGurumi",
       "price": 149.99,
-      "imageUrl": "https://picsum.photos/200",
+      "imageUrl": "https://picsum.photos/202",
       "isFavorite": false,
       "isPopular": false
     },
@@ -32,7 +32,7 @@
       "name": "Cihaz",
       "description": "BigiBogy cihazı",
       "price": 299.99,
-      "imageUrl": "https://picsum.photos/200",
+      "imageUrl": "https://picsum.photos/203",
       "isFavorite": false,
       "isPopular": true
     }
@@ -55,7 +55,20 @@
       "rank": 3,
       "name": "Nuri",
       "surname": "Gülmez"
-    }
+    },
+    {
+      "id": "4",
+      "rank": 4,
+      "name": "Ali",
+      "surname": "Yılmaz"
+    },
+    {
+      "id": "5",
+      "rank": 5,
+      "name": "Ayşe",
+      "surname": "Yıldırım"
+    },
+    
   ],
   "dailyPedo": [
     {
