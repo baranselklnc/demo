@@ -41,7 +41,7 @@
       "name": "BigyBigy",
       "description": "Büyük BigiBogy",
       "price": 499.99,
-      "imageUrl": "https://picsum.photos/203",
+      "imageUrl": "https://picsum.photos/204",
       "isFavorite": false,
       "isPopular": true
     },
@@ -50,7 +50,7 @@
       "name": "Bob",
       "description": "Ressam BigiBogy",
       "price": 299.99,
-      "imageUrl": "https://picsum.photos/203",
+      "imageUrl": "https://picsum.photos/205",
       "isFavorite": false,
       "isPopular": true
     }
