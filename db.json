@@ -3,7 +3,7 @@
     {
       "id": "1",
       "name": "Aksesuarlar",
-      "description": "BigiBogy aksesuarları",
+      "description": "Bigi aksesuarı",
       "price": 129.99,
       "imageUrl": "https://picsum.photos/200",
       "isFavorite": false,
