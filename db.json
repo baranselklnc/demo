@@ -36,7 +36,7 @@
       "isFavorite": false,
       "isPopular": true
     },
-     {
+    {
       "id": "5",
       "name": "BigyBigy",
       "description": "Büyük BigiBogy",
@@ -45,12 +45,39 @@
       "isFavorite": false,
       "isPopular": true
     },
-     {
+    {
       "id": "6",
       "name": "Bob",
       "description": "Ressam BigiBogy",
       "price": 299.99,
       "imageUrl": "https://picsum.photos/205",
+      "isFavorite": false,
+      "isPopular": true
+    },
+    {
+      "id": "7",
+      "name": "BigiKitap",
+      "description": "Eğitici BigiKitap",
+      "price": 59.99,
+      "imageUrl": "https://picsum.photos/206",
+      "isFavorite": true,
+      "isPopular": true
+    },
+    {
+      "id": "8",
+      "name": "BigiPuzzle",
+      "description": "Eğlenceli BigiPuzzle",
+      "price": 89.99,
+      "imageUrl": "https://picsum.photos/208",
+      "isFavorite": true,
+      "isPopular": false
+    },
+    {
+      "id": "9",
+      "name": "BigiBoyama",
+      "description": "Yaratıcı BigiBoyama Kitabı",
+      "price": 49.99,
+      "imageUrl": "https://picsum.photos/209",
       "isFavorite": false,
       "isPopular": true
     }
@@ -85,8 +112,25 @@
       "rank": 5,
       "name": "Ayşe",
       "surname": "Yıldırım"
+    },
+    {
+      "id": "6",
+      "rank": 6,
+      "name": "Zeynep",
+      "surname": "Kara"
+    },
+    {
+      "id": "7",
+      "rank": 7,
+      "name": "Mehmet",
+      "surname": "Demir"
+    },
+    {
+      "id": "8",
+      "rank": 8,
+      "name": "Elif",
+      "surname": "Çelik"
     }
-    
   ],
   "dailyPedo": [
     {
@@ -106,6 +150,24 @@
       "title": "Problem Çözme",
       "description": "Günlük hayatta karşılaşılan basit problemleri çocuğunuzla birlikte çözün.",
       "iconUrl": "https://picsum.photos/200"
+    },
+    {
+      "id": "4",
+      "title": "Dil Gelişimi",
+      "description": "Çocuğunuzun dil gelişimini desteklemek için günlük olarak kitap okuyun ve yeni kelimeler öğretin.",
+      "iconUrl": "https://picsum.photos/207"
+    },
+    {
+      "id": "5",
+      "title": "Motor Beceriler",
+      "description": "Çocuğunuzun ince motor becerilerini geliştirmek için günlük olarak el işi aktiviteleri yapın.",
+      "iconUrl": "https://picsum.photos/209"
+    },
+    {
+      "id": "6",
+      "title": "Duygusal Zeka",
+      "description": "Çocuğunuzun duygusal zekasını geliştirmek için duyguları tanımlama ve ifade etme oyunları oynayın.",
+      "iconUrl": "https://picsum.photos/210"
     }
   ]
 }
