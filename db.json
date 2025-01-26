@@ -75,7 +75,7 @@
     {
       "id": "9",
       "name": "BigiBoyama",
-      "description": "Yaratıcı BigiBoyama Kitabı",
+      "description": "BigiBoyama Kitabı",
       "price": 49.99,
       "imageUrl": "https://picsum.photos/209",
       "isFavorite": false,
