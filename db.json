@@ -29,8 +29,26 @@
     },
     {
       "id": "4",
-      "name": "Cihaz",
-      "description": "BigiBogy cihazı",
+      "name": "BugiBugi",
+      "description": "Minik BigiBogy",
+      "price": 99.99,
+      "imageUrl": "https://picsum.photos/203",
+      "isFavorite": false,
+      "isPopular": true
+    },
+     {
+      "id": "5",
+      "name": "BigyBigy",
+      "description": "Büyük BigiBogy",
+      "price": 499.99,
+      "imageUrl": "https://picsum.photos/203",
+      "isFavorite": false,
+      "isPopular": true
+    },
+     {
+      "id": "6",
+      "name": "Bob",
+      "description": "Ressam BigiBogy",
       "price": 299.99,
       "imageUrl": "https://picsum.photos/203",
       "isFavorite": false,
