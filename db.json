@@ -1,14 +1,80 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "products": [
+    {
+      "id": "1",
+      "name": "Aksesuarlar",
+      "description": "BigiBogy aksesuarları",
+      "price": 129.99,
+      "imageUrl": "https://picsum.photos/200",
+      "isFavorite": false,
+      "isPopular": true
+    },
+    {
+      "id": "2",
+      "name": "Döngü Kartları",
+      "description": "Eğitici döngü kartları",
+      "price": 79.99,
+      "imageUrl": "https://picsum.photos/200",
+      "isFavorite": false,
+      "isPopular": true
+    },
+    {
+      "id": "3",
+      "name": "BigiGurumi",
+      "description": "Sevimli BigiGurumi",
+      "price": 149.99,
+      "imageUrl": "https://picsum.photos/200",
+      "isFavorite": false,
+      "isPopular": false
+    },
+    {
+      "id": "4",
+      "name": "Cihaz",
+      "description": "BigiBogy cihazı",
+      "price": 299.99,
+      "imageUrl": "https://picsum.photos/200",
+      "isFavorite": false,
+      "isPopular": true
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "statistics": [
+    {
+      "id": "1",
+      "rank": 1,
+      "name": "Emre",
+      "surname": "Şahin"
+    },
+    {
+      "id": "2",
+      "rank": 2,
+      "name": "Baransel",
+      "surname": "Kılınç"
+    },
+    {
+      "id": "3",
+      "rank": 3,
+      "name": "Nuri",
+      "surname": "Gülmez"
+    }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "dailyPedo": [
+    {
+      "id": "1",
+      "title": "Sosyal Beceriler",
+      "description": "Çocukların sosyal becerilerini geliştirmek için günlük oyun saatlerine mutlaka arkadaşlarını dahil edin.",
+      "iconUrl": "https://picsum.photos/200"
+    },
+    {
+      "id": "2",
+      "title": "Yaratıcı Düşünme",
+      "description": "Çocuğunuzun yaratıcılığını geliştirmek için serbest oyun zamanları ayırın.",
+      "iconUrl": "https://picsum.photos/200"
+    },
+    {
+      "id": "3",
+      "title": "Problem Çözme",
+      "description": "Günlük hayatta karşılaşılan basit problemleri çocuğunuzla birlikte çözün.",
+      "iconUrl": "https://picsum.photos/200"
+    }
+  ]
 }
